@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace ServerTest
 {
@@ -6,7 +7,6 @@ namespace ServerTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
